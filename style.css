@@ -266,3 +266,39 @@ body {
 .proj-desc {
   width: 60%;
 }
+
+/*more stuff to implement/
+
+
+
+/*Current Activities*/
+.activities {
+  background: #4d2d2d63;
+}
+
+.activities div {
+  color: #a4a5a7;
+  height: 20rem;
+  text-align: center;
+}
+
+.activities div h2 {
+  margin: 0 20px;
+  padding: 30px;
+  font-size: 30px;
+  line-height: 2rem;
+}
+
+.activities div h3 {
+  font-size: 20px;
+  line-height: 2rem;
+  gap: 4.7rem;
+}
+
+.activities div h4 {
+  margin-top: 40px;
+  padding-top: 40px;
+  font-size: 15px;
+  line-height: 2rem;
+  gap: 4.7rem;
+}
