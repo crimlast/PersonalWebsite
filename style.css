@@ -302,3 +302,25 @@ body {
   line-height: 2rem;
   gap: 4.7rem;
 }
+
+.proj-desc-list {
+  list-style: None;
+  margin: 20px;
+  padding: 20px;
+}
+
+.proj-desc-link a:link,
+.proj-desc-link a:visited {
+  display: inline-block;
+  text-decoration: none;
+  color: rgb(182, 18, 18);
+  font-weight: 500;
+  font-size: 2rem;
+  transition: all 0.3s;
+}
+
+.proj-desc-link a:hover,
+.proj-desc-link a:active {
+  color: #20b8a3;
+  background: #f06000;
+}
