@@ -326,8 +326,8 @@ body {
   background: #f06000;
 }
 
-.proj-img img{
-  object-fit:cover;
-  height:17rem;
+.proj-img img {
+  object-fit: cover;
+  height: 17rem;
   width: 20rem;
 }
